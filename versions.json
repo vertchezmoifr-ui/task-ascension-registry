@@ -1,5 +1,5 @@
-{ "latest": "1.1.0",
-    "download_url": "https://github.com/.../TaskAscension.exe",
+{ "latest": "1.0.0",
+    "download_url": "https://github.com/vertchezmoifr-ui/task-ascension-registry/releases/download/V1.0.0/TaskAscension.exe",
     "release_notes": {
       "fr": "- Nouvelle fonctionnalité X\n- Correction bug Y",
       "en": "- New feature X\n- Fix bug Y"
