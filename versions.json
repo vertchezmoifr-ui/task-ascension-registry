@@ -1,8 +1,9 @@
- {
-    "latest": "1.2.0",
-    "download_url": "https://github.com/vertchezmoifr-ui/task-ascension-registry/releases/download/V1.2.0/TaskAscension-1.2.0.zip",
-    "release_notes": {
-      "fr": "- Nouvelle fonctionnalité X\n- Correction bug Y",
-      "en": "- New feature X\n- Fix bug Y"
-    }
+{
+  "latest": "1.3.0",
+  "download_url": "https://github.com/vertchezmoifr-ui/task-ascension-registry/releases/download/v1.3.0/TaskAscension-1.3.0.zip",
+  "sha256": "6a3ea1588277cf4b05cccb16cef46d5ec2e4e87aa2ca50a4cf891a04164e412b",
+  "release_notes": {
+    "fr": "—",
+    "en": "—"
   }
+}
